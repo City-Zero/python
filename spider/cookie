@@ -1,0 +1,10 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.baidu.com	TRUE	/	FALSE	3637152994	BAIDUID	50812976E299608F821C99BA841FBA47:FG=1
+.baidu.com	TRUE	/	FALSE	3637152994	BIDUPSID	50812976E299608F821C99BA841FBA47
+.baidu.com	TRUE	/	FALSE		H_PS_PSSID	1434_21124_18559_22036_22174_22157
+.baidu.com	TRUE	/	FALSE	3637152994	PSTM	1489669347
+www.baidu.com	FALSE	/	FALSE		BDSVRTM	0
+www.baidu.com	FALSE	/	FALSE		BD_HOME	0
